@@ -3,7 +3,7 @@
 **A curated repository to store the code behind my Medium articles.**
 
 Find all my articles on [Medium](https://medium.com/@hanzlanawaz)  
-Follow me on [Twitter](https://x.com/HanzlaWatto)  
+Follow me on [X](https://x.com/HanzlaWatto)  
 
 
 ---
