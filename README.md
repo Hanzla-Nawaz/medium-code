@@ -20,7 +20,7 @@ Below is a list of my articles along with the corresponding notebook source and 
 
 |                                               Article                                               |                            Notebook                            |                                                   Collab                                                   |
 | :-------------------------------------------------------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-| [Meeting Minutes Reimagined: Automating Documentation with Whisper, Mistral, and Open-Source AI](https://shorturl.at/3Uv7z)                 | [source](notebooks/video_popularity.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://shorturl.at/izJbZ) |
+| [Meeting Minutes Reimagined: Automating Documentation with Whisper, Mistral, and Open-Source AI](https://shorturl.at/3Uv7z)                 | [source](notebooks/Meeting_minutes.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://shorturl.at/izJbZ) |
 ## Collaborations
 
 If you're interested in collaborating on any project or have suggestions for improvements, please feel free to open an issue or submit a pull request. I'm always excited to hear new ideas and work together to enhance these resources.
