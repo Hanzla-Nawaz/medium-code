@@ -24,16 +24,3 @@ Below is a list of my articles along with the corresponding notebook source and 
 ## Collaborations
 
 If you're interested in collaborating on any project or have suggestions for improvements, please feel free to open an issue or submit a pull request. I'm always excited to hear new ideas and work together to enhance these resources.
-
----
-
-## Installation
-
-To run any of these notebooks locally, follow these steps:
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/code-notebooks.git
-   cd code-notebooks
-
